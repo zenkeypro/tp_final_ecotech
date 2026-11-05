@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Lámpara LED",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "nombre": "Panel X",
+        "precio": 1000,
+        "stock": 5,
+        "eficiencia": "18%",
+        "potencia_w": 300
+    }
+]
