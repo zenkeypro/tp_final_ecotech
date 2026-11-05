@@ -51,3 +51,11 @@ if __name__ == "__main__":
     alertas, promedio = generar_resumen_sensores(sensores_limpios, umbral_temperatura=umbral)
     print(f"Sensores en alerta (> {umbral}°C): {alertas}")
     print(f"Promedio de temperatura global: {promedio}°C")
+
+
+
+
+    #Profe este es mi tp final solo subi 1 y 2 por que no llego creo a subir el 3 he tenido que 
+    # repasar mucho y django es el que mas me cuesta, me sirvio de muy mucho la ultima clase con 
+    # los ejemplos de resolucion, mi nombre es emanuel selada mi dni 31622243, espero que este correcto
+    # gracias por todo!!!!!
